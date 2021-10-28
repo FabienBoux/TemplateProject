@@ -2,6 +2,7 @@ coverage
 engarde
 ipython
 jupyter
+jupyterlab
 matplotlib
 notebook
 numpy
