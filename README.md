@@ -1,12 +1,18 @@
 # TemplateProject
-A template of the project with procedure to initialize a new dta science project
+A template of the project with procedure to initialize a new data science project
 
 
 
 
 
-## Instalation
+## Installation
 
 ```
-conda install --force-reinstall -y -q -c conda-forge --file "C:\Users\Fabien Boux\Code\doc\requirements.txt"
+conda install --force-reinstall -y -q -c conda-forge --file requirements.txt
+```
+
+## Maintenance 
+
+```
+conda update -c conda-forge --all
 ```
