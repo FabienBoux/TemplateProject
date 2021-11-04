@@ -28,6 +28,7 @@ conda install --force-reinstall -y -q -c conda-forge --file requirements.txt
 
 ```
 conda update -c conda-forge --all
+conda list -e > requirements.txt
 ```
 
 
